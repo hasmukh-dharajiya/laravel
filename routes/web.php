@@ -25,3 +25,6 @@ Route::view('/register','register');
 Route::view('/login','login');
 
 Route::post('/store', [UserController::class, 'store']);
+
+
+hghg
